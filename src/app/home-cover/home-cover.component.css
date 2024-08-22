@@ -1,0 +1,15 @@
+/* #cover img{
+    width:100%;
+    height:500px;
+} */
+#covercomp{
+    background-image:url('src/assets/images/light-keyboard.jpg');
+    height: 500px;
+    width:100%;
+    background-size: 100% 100%;
+}
+@media (max-width: 480px){
+    #covercomp{
+        height: 225px !important;
+    }
+}
