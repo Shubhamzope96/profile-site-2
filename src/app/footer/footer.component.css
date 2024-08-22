@@ -1,0 +1,15 @@
+ul li {
+    padding:10px;
+list-style:none;
+font-size:20px
+}
+ul{
+    display:flex;
+    margin-left: 44.6%;
+}
+li#my-fb fa-icon{
+    color: blue;
+}
+#my-insta fa-icon{
+    color:#e61e41;
+}
